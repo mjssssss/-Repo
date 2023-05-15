@@ -2,6 +2,6 @@
 int main()
 {
 
-   printf("hello");
+   printf("hello,mjs");
     return 0;
 }
